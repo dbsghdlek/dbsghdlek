@@ -2,7 +2,7 @@
 ### Backend Developer
 
 > Java, Spring, MySql, MyBatis, JPA
-- PortFolio : <a href="https://www.notion.so/a3b90a8247994cc1b70b062135b8dacb" target="_blank"><img src="https://img.shields.io/badge/PortFolio-40AEF0?style=alchemy&logo=alchemy&logoColor=#0C0C0E"/></a>
+- PortFolio : <a href="https://wobbly-kileskus-4e5.notion.site/a3b90a8247994cc1b70b062135b8dacb" target="_blank"><img src="https://img.shields.io/badge/PortFolio-40AEF0?style=alchemy&logo=alchemy&logoColor=#0C0C0E"/></a>
 - Email : dbsghdlek2@naver.com
 - 
 <!--
